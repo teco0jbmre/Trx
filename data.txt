@@ -1,0 +1,3 @@
+pip install tronpy
+pip install tronapi
+cd crypto-hunter
